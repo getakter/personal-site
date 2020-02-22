@@ -1,0 +1,116 @@
+body {
+font-family: 'Roboto Slab';
+margin: auto;
+width: 80%;
+}
+
+.highlighted {
+    color:#EC4C77;
+}
+
+h1.highlighted {
+font-size: 40px;
+}
+
+.half-width {
+    width: 45%;
+    float: left;
+    margin-right: 30px;
+}  
+
+.main-button {
+    background-color: #EC4C77;
+    color: #fff;
+    padding: 6px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.side-image img {
+    width: 80%;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+#hello-area {
+    background-image: url("images/header-bg.png");
+}
+
+#biograpgy-area {
+    background-image: url(images/biography-bg.png);
+    background-position: center;
+}
+
+#footer-area {
+    background-image: url("images/footer-bg.png");
+    background-position: center;
+}
+
+section {
+    margin-bottom: 80px;
+    float:left;
+}
+
+#hello-area {
+    background-image: url(/images/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+
+.single-work {
+    width: 32%;
+    float: left;
+    margin-left: 13px;
+}
+
+.single-work img {
+    width: 100%;
+}
+
+#cliens-feedback-area {
+    text-align: center;
+}
+
+.hello-text {
+    margin-top: 160px;
+        width: 32%;
+        float: left;
+        margin-left: 13px;
+}
+
+.leave-message {
+    background-color: #EC4F8F;
+    padding: 10px;
+    color: #fff;
+border-radius: 5px;
+   line-height: 20px; 
+    margin-top:20px}
+
+.leave-message h3 {
+    font-size: 30px;
+}
+
+.feedback-middle {
+    width: 50%;
+    margin: auto;
+}
+
+.bio-text {
+    margin-top: 100px;
+}
+
+section h1 {
+    margin-bottom: 40px;
+    font-size: 30px;;
+}
+
+#footer-area {
+    background-image: url("images/footer-bg.png");
+    background-position: center;
+    width: 100%;
+    text-align: center;
+}
